@@ -1,6 +1,5 @@
 # Modelos de Galeria de fotos
 Criando modelos para galeria de fotos
----
 
 ### Exemplo 1: 
 
